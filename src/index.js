@@ -237,28 +237,22 @@ const Game = () => {
   };
 
   return (
-    <div class="body">
-      <header>
-        <h1>Manchester City - Shuffle Puzzle</h1>
-      </header>
-      <main class="body">
-        <div>
-          <button onClick={() => shuffleGrid()}>Shuffle</button>
-          <button onClick={() => resetGame()}>New Game</button>
-        </div>
-        {isWin ? (
+    <div className='body'>
+      <div>
+        <button onClick={() => shuffleGrid()}>Shuffle</button>
+        <button onClick={() => resetGame()}>New Game</button>
+      </div>
 
-          <Winner moves={moveCount} />
-        ) : (
-          <GameBoard
-            onMove={(arrInd, valInd) => handleMove(arrInd, valInd)}
-            grid={grid}
-          />
-        )}
-      </main>
-      <footer >
-        <span>©<a href="https://daviradprofile.netlify.app" target="_blank">DavidIradukunda</a>. All rights reserved.</span>
-      </footer>
+      {isWin ? (
+
+        <Winner moves={moveCount} />
+      ) : (
+        <GameBoard
+          onMove={(arrInd, valInd) => handleMove(arrInd, valInd)}
+          grid={grid}
+        />
+      )}
+
     </div>
   );
 };
