@@ -47,13 +47,14 @@
 </p>
 
 <!-- available Scripts -->
-# <h1 align="center">npm start</h1>
+# <h1 align="center">Available Scripts</h1>
+<h3 align="center">npm start</h3>
 <p align="center">
 Runs the app in the development mode.<br/>
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 </p>
 
-# <h1 align="center">npm run build</h1>
+<h3 align="center">npm run build</h3>
 <p align="center">
 Builds the app for production to the `build` folder.<br/>
 It correctly bundles React in production mode and optimizes the build for the best performance.
