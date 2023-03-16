@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+<!-- app name and link -->
+# <h1 align="center">Manchester City - Shuffle puzzle <a href="https://manchester-city-shuffle-puzzle.onrender.com" target="_blank">Application</a></h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- website demo -->
+<a href="https://manchester-city-shuffle-puzzle.onrender.com" target="_blank">
+  <img src="https://github.com/iradukud/iradukud/blob/main/assests/imgs/mci_puzzle_demo.gif" width="100%" alt="Manchester City - Shuffle puzzle demo video"/>
+</a>
 
-## Available Scripts
+<!-- website description -->
+<p align="center">
+  Complete the sliding puzzle game of the Manchester City badge with the fewest steps.
+<p>
 
-In the project directory, you can run:
+<!-- technology used -->
+# <h1 align="center">Tech used</h1>
+<div align="center">
+  <!-- react icon -->
+    <a href="https://reactjs.org/" rel="nofollow"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> 
+    </a>
+  <!-- html icon -->
+  <a href="https://www.w3.org/html/" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> 
+  </a>
+  <!-- css icon -->
+  <a href="https://www.w3schools.com/css/" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%"> 
+  </a>
+  <!-- javascript icon -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
+  </a>
+</div>
 
-### `npm start`
+<!-- potential improvements -->
+# <h1 align="center">Optimizations</h1>
+<p align="center">
+  Allow users to go back/undo steps<br>
+  Add other team badges<br>
+  Improve presentation (styling)
+</p>
 
-Runs the app in the development mode.\
+<!-- takeaways -->
+# <h1 align="center">Lessons Learned</h1>
+<p align="center">
+  Familiarization with the basics of Reacts  
+</p>
+
+<!-- available Scripts -->
+# <h1 align="center">npm start</h1>
+<p align="center">
+Runs the app in the development mode.<br/>
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
+# <h1 align="center">npm run build</h1>
+<p align="center">
+Builds the app for production to the `build` folder.<br/>
 It correctly bundles React in production mode and optimizes the build for the best performance.
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- other projects -->
+# <h1 align="center">More Projects</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- project container -->
+<table bordercolor="#66b2b2">
+  <tbody>
+    <!-- row -->
+    <tr>
+      <!-- first column -->
+      <td width="33.3%">
+        <!-- name w/repo link -->
+        <p align="center">
+          <a target="_blank" href="https://github.com/iradukud/Meals-on-Demand">Meals on Demand</a>
+        </p>
+        <br>
+        <!-- demo w/repo link -->
+        <a target="_blank" href="">
+            <img src="https://github.com/iradukud/iradukud/blob/main/assests/imgs/mod_demo.gif" width="100%"  alt="Meals on Demand demo video">
+        </a>
+      </td>
+      <!-- second column -->
+      <td width="33.3%">
+        <!-- name w/repo link -->
+        <p align="center">
+          <a target="_blank" href="https://github.com/iradukud/iradukud/blob/main/assests/imgs/ht_demo.gif">HotTakes</a>
+        </p>
+        <br>
+        <!-- demo w/repo link -->
+        <a target="_blank" href="">
+            <img src="https://github.com/iradukud/iradukud/blob/main/assests/imgs/ht_demo.gif" width="100%"  alt="HotTakes demo video">
+        </a>
+      </td>
+      <!-- third column -->
+      <td width="33.3%">
+        <!-- name w/repo link -->
+        <a target="_blank" href=""></a>
+        <br>
+        <!-- demo w/repo link -->
+        <a target="_blank" href="">
+            <img src="" width="100%"  alt="">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
