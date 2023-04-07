@@ -84,24 +84,24 @@ It correctly bundles React in production mode and optimizes the build for the be
       <td width="33.3%">
         <!-- name w/repo link -->
         <p align="center">
-        <a target="_blank" href="https://github.com/iradukud/hitlist">M.City Shuffle Puzzle</a>
+        <a target="_blank" href="[https://github.com/iradukud/hitlist](https://github.com/iradukud/Hot-Takes)">HotTakes</a>
         </p>
         <br>
         <!-- demo w/repo link -->
-        <a target="_blank" href="https://github.com/iradukud/hitlist">
-            <img src="https://github.com/iradukud/iradukud/raw/main/assests/imgs/hitlist_demo.gif" width="100%"  alt="Hitlist demo video">
+        <a target="_blank" href="https://github.com/iradukud/Hot-Takes">
+            <img src="https://github.com/iradukud/iradukud/raw/main/assests/imgs/hitlist_demo.gif" width="100%"  alt="HotTakes demo video">
         </a>
       </td>
       <!-- third column -->
       <td width="33.3%">
         <!-- name w/repo link -->
         <p align="center">
-          <a target="_blank" href="https://github.com/iradukud/hitlist">Hitlist</a>
+          <a target="_blank" href="https://github.com/iradukud/Hot-Takes">Hitlist</a>
         </p>
         <br>
         <!-- demo w/repo link -->
         <a target="_blank" href="https://github.com/iradukud/hitlist">
-            <img src="https://github.com/iradukud/iradukud/raw/main/assests/imgs/hitlist_demo.gif" width="100%"  alt="Hitlist demo video">
+            <img src="https://github.com/iradukud/iradukud/raw/main/assests/imgs/ht_demo.gif" width="100%"  alt="Hitlist demo video">
         </a>
       </td>
     </tr>
