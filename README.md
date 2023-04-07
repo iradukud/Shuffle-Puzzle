@@ -84,7 +84,7 @@ It correctly bundles React in production mode and optimizes the build for the be
       <td width="33.3%">
         <!-- name w/repo link -->
         <p align="center">
-        <a target="_blank" href="[https://github.com/iradukud/hitlist](https://github.com/iradukud/Hot-Takes)">HotTakes</a>
+        <a target="_blank" href="https://github.com/iradukud/Hot-Takes">HotTakes</a>
         </p>
         <br>
         <!-- demo w/repo link -->
